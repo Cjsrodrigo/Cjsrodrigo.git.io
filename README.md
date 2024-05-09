@@ -26,25 +26,22 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![My social links profile](https://github.com/Cjsrodrigo/Cjsrodrigo.git.io/assets/154842867/794c528c-b5c6-44b5-8266-dd2584269f69)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/Cjsrodrigo/Cjsrodrigo.git.io)
 - Live Site URL: [Live Site](cjsrodrigo.github.io.)
 
 ## My process
 
 Process ran smoothly, the part i'm still findind a bit complex is the box positioning, the spacing between elements in this project bothered me a little. 
 
-
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
 
 ### Continued development
 
